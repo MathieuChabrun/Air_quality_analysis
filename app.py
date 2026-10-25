@@ -1,7 +1,4 @@
-"""Data storytelling dashboard — air quality in France, 2015 vs 2025.
-
-Run with:  streamlit run app.py
-"""
+"""Run with:  streamlit run app.py"""
 import streamlit as st
 
 from sections import conclusions, data_quality, deep_dives, intro, overview
