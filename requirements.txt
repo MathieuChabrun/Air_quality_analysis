@@ -1,0 +1,6 @@
+# Tested with Python 3.12. Exact versions = reproducible environment.
+streamlit==1.66.1
+pandas==3.0.2
+numpy==2.4.4
+plotly==7.1.0
+pytest==9.1.1
