@@ -24,7 +24,6 @@ above the WHO guidelines.**
 
 - Application déployée : https://airqualityanalysis-dgxqobcxzqtrqxgp5la8bb.streamlit.app/
 - Repository GitHub : https://github.com/MathieuChabrun/Air_quality_analysis
-- Démo vidéo : <lien ou nom du fichier>
 
 ## Quick start
 
