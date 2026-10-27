@@ -1,8 +1,7 @@
 # Is the air in France getting cleaner? (2015 vs 2025)
 
 Individual student project — Data Storytelling Dashboard with Streamlit (EFREI, group BIA).
-Author: _<your name>_ · _<your email>_
-
+Author: Mathieu CHABRUN · mathieu.chabrun@efrei.net
 A Streamlit app that tells one story: **between 2015 and 2025, air pollution (NO₂, PM₁₀, PM₂.₅) fell
 almost everywhere in France, but traffic stations are still the highest, and many stations are
 above the WHO guidelines.**
